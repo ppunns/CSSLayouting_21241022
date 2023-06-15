@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace    ;
+}
+
+mg{
+    width: 100px;
+}
+.navigasi{
+    background-color: aqua;
+}
+.main{
+    background-color: azure;
+
+}
+.main span{
+    background-color: greenyellow
+}

@@ -1,0 +1,15 @@
+div{
+    width: 600px;
+    margin: 10px auto;
+    box-sizing: border-box;
+}
+.satu{
+    background-color: coral;
+    padding: 10px;
+    border: solid 5px black;
+}
+.dua{
+    background-color: yellow;
+    padding: 30px;
+    border: double 5px black;
+}

@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+}
+div{
+    width: 280px;
+    height: 280px;
+    background-color: coral;
+    margin: 20px auto;
+    padding: 20px;
+    /* border-left: 5px solid black;
+    border-right: 5px dashed red; */
+    border: solid 5px blue;
+    border-radius: 20px;
+
+}
